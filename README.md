@@ -1,0 +1,2 @@
+# scrappin_comic
+koomiksiskräpp
